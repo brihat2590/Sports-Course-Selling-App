@@ -1,0 +1,55 @@
+{
+    "courses":[
+        {
+            "id": 1,
+            "title": "Beginner's Basketball Training",
+            "slug": "beginners-basketball-training",
+            "description": "Learn the fundamentals of basketball, including dribbling, shooting, and passing techniques.",
+            "price": 49.99,
+            "instructor": "John Doe",
+            "isFeatured": true,
+            "images": ["https://example.com/images/basketball1.jpg", "https://example.com/images/basketball2.jpg"]
+          },
+          {
+            "id": 2,
+            "title": "Advanced Soccer Skills",
+            "slug": "advanced-soccer-skills",
+            "description": "Enhance your soccer techniques with this advanced course covering dribbling, ball control, and tactics.",
+            "price": 69.99,
+            "instructor": "Jane Smith",
+            "isFeatured": false,
+            "images": ["https://example.com/images/soccer1.jpg", "https://example.com/images/soccer2.jpg"]
+          },
+          {
+            "id": 3,
+            "title": "Yoga for Athletes",
+            "slug": "yoga-for-athletes",
+            "description": "Improve your flexibility and focus with yoga routines tailored for athletes.",
+            "price": 39.99,
+            "instructor": "Emily Johnson",
+            "isFeatured": true,
+            "images": ["https://example.com/images/yoga1.jpg", "https://example.com/images/yoga2.jpg"]
+          },
+          {
+            "id": 4,
+            "title": "Tennis Masterclass",
+            "slug": "tennis-masterclass",
+            "description": "Master the art of tennis with this comprehensive guide to techniques and strategies.",
+            "price": 89.99,
+            "instructor": "Roger Blake",
+            "isFeatured": false,
+            "images": ["https://example.com/images/tennis1.jpg", "https://example.com/images/tennis2.jpg"]
+          },
+          {
+            "id": 5,
+            "title": "Marathon Training Program",
+            "slug": "marathon-training-program",
+            "description": "Prepare for your next marathon with this detailed training program designed for all levels.",
+            "price": 99.99,
+            "instructor": "Michael Scott",
+            "isFeatured": true,
+            "images": ["https://example.com/images/marathon1.jpg", "https://example.com/images/marathon2.jpg"]
+          }
+        
+    ]
+}
