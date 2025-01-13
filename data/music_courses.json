@@ -49,7 +49,63 @@
             "instructor": "Michael Scott",
             "isFeatured": true,
             "images": ["https://example.com/images/marathon1.jpg", "https://example.com/images/marathon2.jpg"]
-          }
+          },
+          [
+            {
+              "id": 1,
+              "title": "Beginner's Guide to Tennis",
+              "slug": "beginners-guide-to-tennis",
+              "description": "Learn the basics of tennis, including rules, techniques, and tips to get started.",
+              "price": 49.99,
+              "instructor": "John Doe",
+              "isFeatured": true,
+              "images": [
+                "https://example.com/images/tennis-course1.jpg",
+                "https://example.com/images/tennis-course2.jpg"
+              ]
+            },
+            {
+              "id": 2,
+              "title": "Mastering Soccer Skills",
+              "slug": "mastering-soccer-skills",
+              "description": "Advanced soccer techniques and drills to take your game to the next level.",
+              "price": 59.99,
+              "instructor": "Jane Smith",
+              "isFeatured": false,
+              "images": [
+                "https://example.com/images/soccer-course1.jpg",
+                "https://example.com/images/soccer-course2.jpg"
+              ]
+            },
+            {
+              "id": 3,
+              "title": "Yoga for Athletes",
+              "slug": "yoga-for-athletes",
+              "description": "Enhance flexibility and strength with yoga routines designed for athletes.",
+              "price": 39.99,
+              "instructor": "Emily Brown",
+              "isFeatured": true,
+              "images": [
+                "https://example.com/images/yoga-course1.jpg",
+                "https://example.com/images/yoga-course2.jpg"
+              ]
+            },
+            {
+              "id": 4,
+              "title": "Basketball Shooting Techniques",
+              "slug": "basketball-shooting-techniques",
+              "description": "Learn how to improve your shooting accuracy with expert drills and strategies.",
+              "price": 45.00,
+              "instructor": "Mike Johnson",
+              "isFeatured": false,
+              "images": [
+                "https://example.com/images/basketball-course1.jpg",
+                "https://example.com/images/basketball-course2.jpg"
+              ]
+            }
+          ]
+          
+          
         
     ]
 }
