@@ -1,5 +1,6 @@
 import FeaturedCourses from '@/components/FeaturedCourses'
 import Herosection from '@/components/Herosection'
+import WhyChooseUs from '@/components/WhyChooseUs'
 import React from 'react'
 
 function page() {
@@ -8,6 +9,7 @@ function page() {
       
           <Herosection/>
           <FeaturedCourses/>
+          <WhyChooseUs/>
 
 
     </main>
