@@ -18,10 +18,7 @@ const content=[
         "title": "Focus on Holistic Development",
         "description": "Our programs emphasize not just physical skills but also mental resilience, discipline, and teamwork, shaping you into a well-rounded athlete."
       },
-      {
-        "title": "Supportive Community",
-        "description": "Be part of a vibrant community of like-minded athletes who inspire and motivate each other to achieve greatness both on and off the field."
-      }
+      
 ]
 
 function WhyChooseUs() {
