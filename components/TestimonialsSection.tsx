@@ -13,13 +13,13 @@ export function InfiniteMovingCardsDemo() {
         direction="right"
         speed="fast"
       /> */}
-      <AnimatedTestimonials testimonials={testimonials1}/>
+      <AnimatedTestimonials testimonials={testimonials}/>
 
     </div>
   );
 }
  
-const testimonials = [
+const testimonials1 = [
   {
     quote:
       "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair.",
@@ -50,13 +50,13 @@ const testimonials = [
     title: "Moby-Dick",
   },
 ];
-const testimonials1 = [
+const testimonials = [
   {
     quote:
       "The attention to detail and innovative features have completely transformed our workflow. This is exactly what we've been looking for.",
     name: "Sarah Chen",
     designation: "Product Manager at TechFlow",
-    src: "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=3560&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    src: "https://imgs.search.brave.com/SyDhH0IZpSPq4rtpABnnMDjyr9I9i4Bmu4YUSmxgEW4/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk9EazNPV0l5/WTJNdE0yRTBNUzAw/T1dZeUxUbGtORGt0/TXpZNE1URTFNRGhp/WXpCaVhrRXlYa0Zx/Y0djQC5qcGc",
   },
   {
     quote:

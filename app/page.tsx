@@ -1,5 +1,6 @@
 import FeaturedCourses from '@/components/FeaturedCourses'
 import Herosection from '@/components/Herosection'
+import Instructors from '@/components/Instructors'
 import { InfiniteMovingCardsDemo } from '@/components/TestimonialsSection'
 import UpcomingWebinars from '@/components/UpcomingWebinars'
 import WhyChooseUs from '@/components/WhyChooseUs'
@@ -14,6 +15,7 @@ function page() {
           <WhyChooseUs/>
           <InfiniteMovingCardsDemo/>
           <UpcomingWebinars/>
+          <Instructors/>
           
 
 
