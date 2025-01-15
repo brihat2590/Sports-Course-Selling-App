@@ -4,7 +4,7 @@ import { StickyScroll } from './ui/sticky-scroll-reveal'
 const content=[
     {
         "title": "Expert Coaches",
-        "description": "Our coaches are seasoned professionals with years of experience, dedicated to providing top-notch training and guidance to help you excel in your sport."
+        "description": "Our coaches are seasoned professionals with years of experience, dedicated to providing top-notch training and guidance to help you excel in your sport.Basically they help you enhance you in your fitness journey"
       },
       {
         "title": "State-of-the-Art Facilities",
@@ -12,7 +12,7 @@ const content=[
       },
       {
         "title": "Personalized Training Programs",
-        "description": "We create customized training plans tailored to your individual strengths, goals, and aspirations, whether you’re a beginner or a competitive athlete."
+        "description": "We create customized training plans tailored to your individual strengths, goals, and aspirations, whether you’re a beginner or a competitive athlete.There are personalized training programs for every sports on the basis of your needs and requirements"
       },
       {
         "title": "Focus on Holistic Development",
