@@ -8,7 +8,7 @@
             "price": 49.99,
             "instructor": "John Doe",
             "isFeatured": true,
-            "images": ["https://example.com/images/basketball1.jpg", "https://example.com/images/basketball2.jpg"]
+            "images": ["https://images.unsplash.com/photo-1668104783298-2c70ef96a1e0?q=80&w=1682&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", "https://example.com/images/basketball2.jpg"]
           },
           {
             "id": 2,
@@ -18,7 +18,7 @@
             "price": 69.99,
             "instructor": "Jane Smith",
             "isFeatured": false,
-            "images": ["https://example.com/images/soccer1.jpg", "https://example.com/images/soccer2.jpg"]
+            "images": ["https://images.unsplash.com/photo-1486286701208-1d58e9338013?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"]
           },
           {
             "id": 3,
@@ -28,7 +28,7 @@
             "price": 39.99,
             "instructor": "Emily Johnson",
             "isFeatured": true,
-            "images": ["https://example.com/images/yoga1.jpg", "https://example.com/images/yoga2.jpg"]
+            "images": ["https://images.unsplash.com/photo-1447452001602-7090c7ab2db3?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"]
           },
           {
             "id": 4,
@@ -38,7 +38,7 @@
             "price": 89.99,
             "instructor": "Roger Blake",
             "isFeatured": false,
-            "images": ["https://example.com/images/tennis1.jpg", "https://example.com/images/tennis2.jpg"]
+            "images": ["https://images.unsplash.com/photo-1526888935184-a82d2a4b7e67?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"]
           },
           {
             "id": 5,
@@ -48,7 +48,7 @@
             "price": 99.99,
             "instructor": "Michael Scott",
             "isFeatured": true,
-            "images": ["https://example.com/images/marathon1.jpg", "https://example.com/images/marathon2.jpg"]
+            "images": ["https://plus.unsplash.com/premium_photo-1664304823165-888f56fc101b?q=80&w=1831&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"]
           },
           {
             "id": 6,
@@ -58,7 +58,7 @@
             "price": 100,
             "instructor": "Nithor",
             "isFeatured": true,
-            "images": ["https://example.com/images/marathon1.jpg", "https://example.com/images/marathon2.jpg"]
+            "images": ["https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"]
           }
           
           
