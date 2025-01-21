@@ -53,10 +53,10 @@ const testimonials1 = [
 const testimonials = [
   {
     quote:
-      "The attention to detail and innovative features have completely transformed our workflow. This is exactly what we've been looking for.",
-    name: "Sarah Chen",
-    designation: "Product Manager at TechFlow",
-    src: "https://imgs.search.brave.com/SyDhH0IZpSPq4rtpABnnMDjyr9I9i4Bmu4YUSmxgEW4/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk9EazNPV0l5/WTJNdE0yRTBNUzAw/T1dZeUxUbGtORGt0/TXpZNE1URTFNRGhp/WXpCaVhrRXlYa0Zx/Y0djQC5qcGc",
+      "The coaches here are incredible! They focus on individual progress and make every session engaging. My swimming skills have improved dramatically ,Thanks to the coaches.",
+    name: "Gaurika Singh",
+    designation: "national swimmer",
+    src: "https://imgs.search.brave.com/dMoewjIi20HqXe_gMeXbOpa3qLuAJ6ScAUZF3QtOD7c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTE4/Nzc2MTY5Ni9waG90/by9uZXBhbHMtc3dp/bW1lci1nYXVyaWth/LXNpbmdoLXRha2Ut/cGFydC1pbi10aGUt/Y2xvc2luZy1jZXJl/bW9ueS1vZi10aGUt/MTN0aC1zb3V0aC1h/c2lhbi1nYW1lcy5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/YzZDZDRHdDNfNFJM/dUV5bkZGRGVIT01y/czJ6dndzRDBwUDlH/eDlnSGFvbz0",
   },
   {
     quote:
