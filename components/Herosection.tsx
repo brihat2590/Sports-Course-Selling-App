@@ -13,7 +13,7 @@ export default function Herosection(){
                     <p className="text-neutral-300 mt-6  text-base">Take your skills to the next level with our expert-led sports courses. From beginners to advanced athletes,<br/> we offer tailored programs for all ages, covering basketball, Football, yoga, and more. Join us today and unlock your full athletic potential!</p>
                     <div className="mt-8 ">
 
-                        <Link href={"/courses"}><Button>Explore courses</Button></Link>
+                        <Link href={"/courses"}><Button className="bg-gray-950">Explore courses</Button></Link>
                     </div>
 
 
