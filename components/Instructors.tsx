@@ -3,12 +3,16 @@ import { AnimatedTooltip } from './ui/animated-tooltip';
 import { WavyBackground } from './ui/wavy-background';
 
 function Instructors() {
+  
   return (
-    <div className="relative h-[40rem] overflow-hidden flex justify-center items-center">
+    <div className="relative h-[50rem] overflow-hidden flex justify-center items-center ">
 
     <WavyBackground className="max-w-4xl mx-auto pb-40">
         
         <div className='flex items-center justify-center mt-14 text-4xl sm:text-5xl  font-bold text-transparent bg-clip-text bg-gradient-to-r from-teal-300 to-emerald-700 antialiased'>Meet Our Instructors</div>
+        <div className='flex items-center justify-center mt-10 p-4 text-neutral-300 font-light text-lg'>
+          <p>Meet your Coaches for your respective sports!</p>
+        </div>
         
         
           <div className='flex items-center justify-center mt-12 p-7'><AnimatedTooltip items={people}/></div>

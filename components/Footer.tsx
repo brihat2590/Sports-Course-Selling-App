@@ -46,6 +46,7 @@ function Footer() {
                 </div>
             </div>
         </div>
+        <p className=" flex justify-center items-center tracking-wider mt-5 mb-0">2024 Sports School . All rights reserved</p>
     </footer>
   )
 }
