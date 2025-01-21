@@ -122,7 +122,7 @@ export default function FeaturedCourses(){
                                     <div className="p-4 sm:p-6 flex flex-col items-center flex-grow">
                                         <p className="p-2 font-bold">{course.title}</p>
                                         <p className="p-1 font-light">{course.description}</p>
-                                        <Link href={`/course/${course.slug}`} className="mt-4 border p-1.5 bg-[rgb(102,121,109)] hover:bg-[rgb(74,81,78)] text-white font-bold py-2 px-4 rounded shadow-lg transition duration-300 ease-in-out">
+                                        <Link href={`/courses`} className="mt-4 border p-1.5 bg-[rgb(102,121,109)] hover:bg-[rgb(74,81,78)] text-white font-bold py-2 px-4 rounded shadow-lg transition duration-300 ease-in-out">
                                         <span >learn more!</span>
                                         </Link>
                                         
