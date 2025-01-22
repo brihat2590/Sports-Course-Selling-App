@@ -2,8 +2,11 @@
 
 import React, { useRef } from "react";
 import emailjs from "@emailjs/browser";
+import { useToast } from "@/hooks/use-toast"
+
 
 export const ContactUs: React.FC = () => {
+  const toast=useToast();
   // Define the type for the form reference
   const form = useRef<HTMLFormElement | null>(null);
 
@@ -30,6 +33,14 @@ export const ContactUs: React.FC = () => {
           console.log("FAILED...", error.text);
         }
       );
+      form.current.reset();
+      toast.toast({
+        title: "Success",
+        description: "thanks for sending form.",
+        duration: 4000, // Optional
+        variant: "destructive",
+        className:"bg-blue-200" // Optional: "default", "success", or "error"
+      });
   };
 
   return (
@@ -83,6 +94,7 @@ export const ContactUs: React.FC = () => {
       <button
         type="submit"
         className="w-full py-3 px-4 bg-indigo-600 text-white font-medium rounded-md hover:bg-indigo-500 transition duration-200"
+        
       >
         Send
       </button>
