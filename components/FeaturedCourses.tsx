@@ -107,7 +107,7 @@ export default function FeaturedCourses(){
       );
       
     return(
-        <div className="bg-gray-900 py-14 mt-5 mb-5">
+        <div className="bg-gray-900 py-14 mt-5 mb-5 h-screen">
             <div>
                 <div className="text-center">
                     <h2 className=" tracking-wide font-bold bg-clip-text text-transparent bg-gradient-to-r from-teal-100 to-teal-400 sm:text-2xl">FEATURED COURSES</h2>

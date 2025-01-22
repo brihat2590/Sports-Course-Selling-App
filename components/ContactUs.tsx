@@ -5,6 +5,7 @@ import emailjs from "@emailjs/browser";
 import { useToast } from "@/hooks/use-toast"
 
 
+
 export const ContactUs: React.FC = () => {
   const toast=useToast();
   // Define the type for the form reference
@@ -50,7 +51,7 @@ export const ContactUs: React.FC = () => {
       onSubmit={sendEmail}
       className="w-full max-w-md bg-neutral-800 p-6 rounded-lg shadow-lg"
     >
-      <h2 className="text-2xl font-semibold text-white mb-6 text-center">
+      <h2 className="text-3xx bg-gradient-to-r from-blue-300 to blue-500 bg-clip-text text-transparent  font-semibold  mb-6 text-center">
         Contact Us
       </h2>
       <div className="mb-4">
@@ -98,7 +99,9 @@ export const ContactUs: React.FC = () => {
       >
         Send
       </button>
+      
     </form>
+    
 </div>
 
     

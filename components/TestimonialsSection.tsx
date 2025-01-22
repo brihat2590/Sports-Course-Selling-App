@@ -6,7 +6,7 @@ import { AnimatedTestimonials } from "./ui/animated-testimonials";
  
 export function InfiniteMovingCardsDemo() {
   return (
-    <div className="h-[40rem] rounded-md flex flex-col antialiased bg-white dark:bg-black dark:bg-grid-white/[0.2] items-center justify-center relative overflow-hidden">
+    <div className="h-screen rounded-md flex flex-col antialiased bg-white dark:bg-black dark:bg-grid-white/[0.2] items-center justify-center relative overflow-hidden">
         <p className="p-4  m-2 text-4xl font-light">Here is what others say!</p>
       {/* <InfiniteMovingCards
         items={testimonials}

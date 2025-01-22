@@ -1,11 +1,12 @@
 import React from 'react'
 import { AnimatedTooltip } from './ui/animated-tooltip';
 import { WavyBackground } from './ui/wavy-background';
+import { Vortex } from './ui/vortex';
 
 function Instructors() {
   
   return (
-    <div className="relative h-[50rem] overflow-hidden flex justify-center items-center ">
+    <div className="relative h-screen overflow-hidden flex justify-center items-center ">
 
     <WavyBackground className="max-w-4xl mx-auto pb-40">
         
@@ -20,6 +21,7 @@ function Instructors() {
     
 
     </WavyBackground>
+    
         
 
 

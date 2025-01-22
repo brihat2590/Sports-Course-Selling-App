@@ -23,10 +23,10 @@ const content=[
 
 function WhyChooseUs() {
   return (
-    <div>
+    <div className='h-screen'>
 
 
-        <h1 className=' flex p-6 items-center justify-center text-xl sm:text-4xl bg-clip-text text-transparent bg-gradient-to-r from-blue-200 to-purple-600 m-10'>Why Choose Us?</h1>
+        <h1 className=' flex p-6 items-center justify-center text-xl sm:text-6xl bg-clip-text text-transparent bg-gradient-to-r from-blue-200 to-purple-600 '>Why Choose Us?</h1>
         <StickyScroll content={content}/>
 
 
